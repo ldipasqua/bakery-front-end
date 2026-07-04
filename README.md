@@ -32,8 +32,9 @@ Na página inicial, o usuário tem a opção de se cadastrar ou acessar a seçã
 
 ![Tela Inicial do Front-end](/img/image.png)
 
-Após preencher os dados solicitados e clicar em **"Cadastrar"**, havendo sucesso no registro, o usuário é redirecionado para a tela do catálogo de produtos.
 ![alt text](/img/image-2.png)
+
+Após preencher os dados solicitados e clicar em **"Cadastrar"**, havendo sucesso no registro, o usuário é redirecionado para a tela do catálogo de produtos.
 
 ![Catálogo de Produtos](/img/image-3.png)
 
