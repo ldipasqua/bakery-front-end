@@ -28,22 +28,21 @@ Após iniciar o servidor da API, abra o arquivo `index.html` (localizado no dire
 
 ## Fluxo de Navegação e Uso da Interface
 
-![Tela Inicial do Front-end](/img/image.png)
-
 Na página inicial, o usuário tem a opção de se cadastrar ou acessar a seção **"Meus Pedidos"** (disponível apenas para usuários já cadastrados). Ao clicar em **"Cadastre-se"**, o usuário é direcionado para a tela de cadastro.
 
-![alt text](\img\image-2.png)
+![Tela Inicial do Front-end](/img/image.png)
 
 Após preencher os dados solicitados e clicar em **"Cadastrar"**, havendo sucesso no registro, o usuário é redirecionado para a tela do catálogo de produtos.
+![alt text](/img/image-2.png)
 
-![Catálogo de Produtos](\img\image-3.png)
+![Catálogo de Produtos](/img/image-3.png)
 
 Na interface de produtos, o usuário pode visualizar o catálogo disponível, adicionar itens ao carrinho e calcular o valor total da compra. Em seguida, basta clicar em **"Fazer pedido"** para enviar a solicitação à API.
 
-![Confirmação de Pedido](\img\image-4.png)
+![Confirmação de Pedido](/img/image-4.png)
 
 Se o pedido for processado com sucesso, uma mensagem de confirmação será exibida e a página de **"Pedido feito com sucesso"** será apresentada. Caso ocorra alguma falha, uma mensagem de erro indicará o problema.
 
-![Histórico de Pedidos](\img\image-5.png)
+![Histórico de Pedidos](/img/image-5.png)
 
 A partir da tela de confirmação, o usuário pode retornar à página inicial (**Home**). Na área **"Meus Pedidos"**, é possível pesquisar pelo CPF para consultar o histórico completo de encomendas, visualizando detalhes como data agendada, endereço de entrega e o valor total de cada pedido.
