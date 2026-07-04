@@ -28,7 +28,7 @@ Após iniciar o servidor da API, abra o arquivo `index.html` (localizado no dire
 
 ## Fluxo de Navegação e Uso da Interface
 
-![Tela Inicial do Front-end](img\image.png)
+![Tela Inicial do Front-end](/img/image.png)
 
 Na página inicial, o usuário tem a opção de se cadastrar ou acessar a seção **"Meus Pedidos"** (disponível apenas para usuários já cadastrados). Ao clicar em **"Cadastre-se"**, o usuário é direcionado para a tela de cadastro.
 
