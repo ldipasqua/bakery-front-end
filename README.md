@@ -42,8 +42,6 @@ Após preencher os dados solicitados e clicar em **"Cadastrar"**, havendo sucess
 
 Na interface de produtos, o usuário pode visualizar o catálogo disponível, adicionar itens ao carrinho e calcular o valor total da compra. Em seguida, basta clicar em **"Fazer pedido"** para enviar a solicitação à API.
 
-![Confirmação de Pedido](/img/image-4.png)
-
 Se o pedido for processado com sucesso, uma mensagem de confirmação será exibida e a página de **"Pedido feito com sucesso"** será apresentada. Caso ocorra alguma falha, uma mensagem de erro indicará o problema.
 
 ![Histórico de Pedidos](/img/image-5.png)
